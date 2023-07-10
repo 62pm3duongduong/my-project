@@ -12,6 +12,8 @@
     "@mui/icons-material": "^5.13.7",
     "@mui/material": "^5.13.7",
     "@mui/styled-engine-sc": "^5.12.0",
+    "firebase": "^10.0.0",
+    "firebase-tools": "^12.4.3",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
